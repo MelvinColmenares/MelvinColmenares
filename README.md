@@ -12,7 +12,7 @@ Especialidad: Análisis y Tratamiento de Datos / Data Science with Python / Dipl
 #### Donde encontrarme:
 
 
--[https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares/)
+- [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares/)
 
 
 <!--
