@@ -14,6 +14,7 @@ Especialidad: Análisis y Tratamiento de Datos / Data Science with Python / Dipl
 
 - [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
 
+- - [ melvicr@gmail.com] ( Melvincr@gmail.com)
 
 <!--
 Here are some ideas to get you started:
