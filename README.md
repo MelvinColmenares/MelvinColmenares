@@ -1,7 +1,7 @@
 ### Hola a todos  👋
 
 
-**MelvinColmenares/MelvinColmenares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MelvinColmenares/MelvinColmenares** 
 
 Especialidad: Análisis y Tratamiento de Datos / Data Science with Python / Diplomado: Técnico en Inteligencia de Negocios / Diplomado: Técnico en Computo en la Nube / Diplomado: Data Engineering, Big Data and ML on Google Cloud
 
